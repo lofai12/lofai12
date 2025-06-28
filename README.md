@@ -1,37 +1,44 @@
-# 👋 Hi, I'm Lofi
+# 👋 Hello, I'm Lofi
 
-I'm a passionate beginner web developer who's on a journey to become a full-stack programmer. I'm especially interested in building beautiful and functional web applications — including digital wedding invitations, landing pages, and more.
-
-## 🚀 About Me
-
-- 🎓 Fresh graduate with a growing interest in programming
-- 💻 Currently learning **Python**, **CSS**, **JavaScript**, and **React**
-- 🎯 Goal: Become a professional web developer and freelance digital creator
-- 🌱 Exploring: Cyber Security, Frontend development, UI/UX design, and digital invitations
-
-## 🧰 Tech Stack
-
-Here are some of the tools and technologies I'm learning and using:
-
-- HTML5 / CSS3 / JavaScript
-- React.js (in progress)
-- Tailwind CSS
-- Git & GitHub
-
-## 🛠️ Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| **Digital Wedding Invitation** | A responsive web-based wedding invitation template | PY, CSS, JS |
-| **Portfolio Website** | Personal site to showcase my works and contact info | HTML, Tailwind | SOON
-| **To-Do List App** *(in progress)* | Simple task tracker to learn React basics | React, CSS | SOON
-
-👉 Check out my [Repositories](https://github.com/lofai12?tab=repositories) to see more!
-
-## 📫 Let's Connect!
-
-- 🌐 GitHub: [github.com/lofai12](https://github.com/lofai12)
+I'm an aspiring **Full-Stack Web Developer** with a strong passion for building clean, responsive, and user-friendly web applications. Whether it's crafting digital wedding invitations or learning the latest in frontend development, I'm committed to growing every day as a developer.
 
 ---
 
-> “Start where you are. Use what you have. Do what you can.” – Arthur Ashe
+## 🚀 About Me
+
+- 🎓 Fresh graduate with a deep interest in tech & software development
+- 👨‍💻 Currently focused on **Python**, **JavaScript**, and **React.js**
+- 🌐 Exploring: **Cybersecurity**, **UI/UX Design**, and **Web-based Invitations**
+- 💡 Goal: To become a professional web developer & freelance digital creator
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
+- **Frameworks/Libraries:** React.js *(learning)*
+- **Version Control:** Git & GitHub
+- **Tools:** VS Code, Figma *(for design)*, Netlify
+
+---
+
+## 📂 Featured Projects
+
+| Project                      | Description                                          | Tech Stack        |
+|-----------------------------|------------------------------------------------------|-------------------|
+| 📝 **Digital Wedding Invite** | A responsive online wedding invitation template     | Python, JS, CSS   |
+| 🌐 **Portfolio Website**      | Personal site to showcase projects & contact info   | HTML, Tailwind CSS |
+| ✅ **To-Do List App**         | Task tracker app to practice React fundamentals     | React, CSS *(soon)* |
+
+👉 See more in my [Repositories](https://github.com/lofai12?tab=repositories)
+
+---
+
+## 📫 Let's Connect
+
+- GitHub: [github.com/lofai12](https://github.com/lofai12)
+- Email: **defvan74@gmail.com**
+
+---
+
+> *"Start where you are. Use what you have. Do what you can."* – Arthur Ashe
