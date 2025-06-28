@@ -1,34 +1,36 @@
 # 👋 Hello, I'm Lofi
 
-I'm an aspiring **Full-Stack Web Developer** with a strong passion for building clean, responsive, and user-friendly web applications. Whether it's crafting digital wedding invitations or learning the latest in frontend development, I'm committed to growing every day as a developer.
+I'm an aspiring **Full-Stack Developer** and **Cyber Security Enthusiast** who's passionate about building useful tools, exploring vulnerabilities ethically, and growing in the world of tech. Whether it's crafting web-based tools or hunting bugs, I'm always learning and experimenting.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Fresh graduate with a deep interest in tech & software development
-- 👨‍💻 Currently focused on **Python**, **JavaScript**, and **React.js**
-- 🌐 Exploring: **Cybersecurity**, **UI/UX Design**, and **Web-based Invitations**
-- 💡 Goal: To become a professional web developer & freelance digital creator
+- 🎓 Fresh graduate with strong curiosity in tech and security
+- 👨‍💻 Learning **Python**, **JavaScript**, **React**, and **Ethical Hacking**
+- 🔒 Interested in: **Cyber Security**, **Bug Bounty**, **Web App Pentesting**, **Digital Forensics**
+- 🌱 Also exploring: **UI/UX Design**, **Web Development**, and **Digital Invitations**
+- 🎯 Goal: Become a professional full-stack developer and ethical hacker
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS
-- **Frameworks/Libraries:** React.js *(learning)*
-- **Version Control:** Git & GitHub
-- **Tools:** VS Code, Figma *(for design)*, Netlify
+- **Languages:** Python, JavaScript, Bash
+- **Frontend:** HTML5, CSS3, Tailwind CSS, React *(learning)*
+- **Cybersecurity Tools:** Kali Linux, Nmap, Burp Suite, Nikto, SQLMap
+- **Others:** Git & GitHub, VS Code, Netlify
 
 ---
 
 ## 📂 Featured Projects
 
-| Project                      | Description                                          | Tech Stack        |
-|-----------------------------|------------------------------------------------------|-------------------|
-| 📝 **Digital Wedding Invite** | A responsive online wedding invitation template     | Python, JS, CSS   |
-| 🌐 **Portfolio Website**      | Personal site to showcase projects & contact info   | HTML, Tailwind CSS |
-| ✅ **To-Do List App**         | Task tracker app to practice React fundamentals     | React, CSS *(soon)* |
+| Project                      | Description                                              | Tech Stack & Tools          |
+|-----------------------------|----------------------------------------------------------|-----------------------------|
+| 🛡️ **OSINTax Tool**           | Python-based OSINT tool for usernames, emails, domains   | Python, Rich, API requests  |
+| 📝 **Digital Wedding Invite** | Online invitation template for weddings                 | HTML, CSS, JS               |
+| 🌐 **Portfolio Website**      | Personal site to showcase projects and profile          | HTML, Tailwind CSS *(soon)* |
+| 🔍 **Simple Recon Script**    | CLI tool for basic recon on websites                    | Python, Nmap, WHOIS         |
 
 👉 See more in my [Repositories](https://github.com/lofai12?tab=repositories)
 
@@ -37,8 +39,8 @@ I'm an aspiring **Full-Stack Web Developer** with a strong passion for building 
 ## 📫 Let's Connect
 
 - GitHub: [github.com/lofai12](https://github.com/lofai12)
-- Email: **defvan74@gmail.com**
+- Email: **defvan774@gmail.com**
 
 ---
 
-> *"Start where you are. Use what you have. Do what you can."* – Arthur Ashe
+> *"Hacking is not about breaking, it's about understanding."* – Unknown
