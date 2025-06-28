@@ -30,10 +30,6 @@ Here are some of the tools and technologies I'm learning and using:
 
 ## 📫 Let's Connect!
 
-I'm open to feedback, collaborations, or freelance opportunities.
-
-- 📧 Email: rafitok618@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/lofi12](https://www.linkedin.com/in/lofi12)
 - 🌐 GitHub: [github.com/lofai12](https://github.com/lofai12)
 
 ---
