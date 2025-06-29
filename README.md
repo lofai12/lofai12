@@ -16,25 +16,28 @@ I'm an aspiring **Full-Stack Developer** and **Cyber Security Enthusiast** who's
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-
-### ⚙️ Frameworks  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
+### 💻 Languages & Frameworks  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://img.icons8.com/ios-filled/50/laravel.png" width="40" title="Laravel"/>
+</p>
 
 ### 🔒 Cybersecurity Tools  
-<img src="https://img.icons8.com/color/48/kali-linux.png" width="40" title="Kali Linux"/>
-<img src="https://img.icons8.com/ios-filled/50/bug.png" width="40" title="Burp Suite"/>
-<img src="https://img.icons8.com/ios/50/terminal.png" width="40" title="Nmap / CLI tools"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/kali-linux.png" width="40" title="Kali Linux"/>
+  <img src="https://img.icons8.com/ios-filled/50/bug.png" width="40" title="Burp Suite"/>
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-terminal-coding-and-development-flat-flat-juicy-fish.png" width="40" title="Nmap / CLI Tools"/>
+</p>
 
-### 🔧 Dev Tools  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="XAMPP"/>
+### 🧰 Dev Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="XAMPP"/>
+</p>
 
 ---
 
