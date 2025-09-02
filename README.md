@@ -1,8 +1,8 @@
 <h1 align="center">🌸👋 Hello, I'm Lofi 🐰</h1>
 <p align="center">
-  <img src="<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180px" alt="kawaii cat gif"/>
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="180px" alt="kawaii cat gif"/>
 </p>
+
 
 ---
 
@@ -66,11 +66,11 @@ I'm an aspiring **Full-Stack Developer** and **Cyber Security Enthusiast** who's
   <a href="https://github.com/lofai12">
     <img src="https://img.shields.io/badge/GitHub-🐱-pink?style=for-the-badge" />
   </a>
-  <a href="mailto:defvan774@gmail.com">
+  <a href="mailto:0xLofi@proton.me">
     <img src="https://img.shields.io/badge/Email-📧-lightblue?style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/">
-    <img src="https://img.shields.io/badge/Twitter-🐦-purple?style=for-the-badge" />
+  <a href="https://www.instagram.com/fckrf23?igsh=Z2V1YXRhNHZ0NTNh">
+    <img src="https://img.shields.io/badge/Instagram🐦-purple?style=for-the-badge" />
   </a>
 </p>
 
