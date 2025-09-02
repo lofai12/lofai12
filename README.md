@@ -62,7 +62,7 @@ I'm an aspiring **Full-Stack Developer** and **Cyber Security Enthusiast** who's
 ## 📫 Let's Connect
 
 - GitHub: [github.com/lofai12](https://github.com/lofai12)  
-- Email: **defvan774@gmail.com**  
+- Email: **0xLofi@proton.me**  
 
 ---
 
