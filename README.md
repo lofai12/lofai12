@@ -1,6 +1,6 @@
 <h1 align="center">🌸👋 Hello, I'm Lofi 🐰</h1>
 <p align="center">
-  <img src="https://media.tenor.com/ckIhSpvMTCUAAAAi/uwu-cat.gif" width="200px" alt="kawaii cat gif"/>
+  <img src="https://media.tenor.com/ckIhSpvMTCUAAAAi/uwu-cat.gif" width="180px" alt="kawaii cat gif"/>
 </p>
 
 ---
@@ -11,59 +11,68 @@ I'm an aspiring **Full-Stack Developer** and **Cyber Security Enthusiast** who's
 
 ## 🚀 About Me
 
-- 🎓 Fresh graduate with strong curiosity in tech and security  
-- 👨‍💻 Learning **Python**, **JavaScript**, **React**, and **Ethical Hacking**  
+- 🎓 Fresh graduate, curious in tech & security  
+- 👨‍💻 Learning **Python**, **JavaScript**, **React**, **Ethical Hacking**  
 - 🔒 Interested in: **Cyber Security**, **Bug Bounty**, **Web App Pentesting**, **Digital Forensics**  
-- 🌱 Exploring: **UI/UX Design**, **Web Development**, and **Digital Invitations**  
-- 🎯 Goal: Become a professional full-stack developer and ethical hacker 🌸
+- 🌱 Exploring: **UI/UX Design**, **Web Development**, **Digital Invitations**  
+- 🎯 Goal: Become a professional full-stack developer & ethical hacker 🌸
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Skill Level
 
-### 💻 Languages & Frameworks  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
-  <img src="https://img.icons8.com/ios-filled/50/laravel.png" width="40" title="Laravel"/>
-</p>
+| Skill          | Level |  
+|----------------|-------|  
+| Python 🐍       | ██████░░ 75% |  
+| JavaScript ✨   | █████░░░ 60% |  
+| React ⚛️       | ████░░░░ 50% |  
+| HTML & CSS 🎨  | ██████░░ 70% |  
+| Cybersecurity 🔒| ████░░░░ 50% |  
 
-### 🔒 Cybersecurity Tools  
 <p align="left">
-  <img src="https://img.icons8.com/color/48/kali-linux.png" width="40" title="Kali Linux"/> 
-  <img src="https://img.icons8.com/ios-filled/50/bug.png" width="40" title="Burp Suite"/> 
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-terminal-coding-and-development-flat-flat-juicy-fish.png" width="40" title="Nmap / CLI Tools"/>
-</p>
-
-### 🧰 Dev Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="XAMPP"/>
+  <img src="https://img.shields.io/badge/Python-75%25-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-60%25-lightblue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-50%25-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-70%25-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CyberSec-50%25-lightgreen?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📂 Featured Projects
 
-| Project                       | Description                                             | Tech Stack & Tools           |
-|-------------------------------|---------------------------------------------------------|------------------------------|
-| 🛡️ **OSINTax Tool**           | Python-based OSINT tool for usernames & emails ✨        | Python, Rich, API requests   |
-| 📝 **Digital Wedding Invite**  | Cute online invitation template for weddings 💌         | HTML, CSS, JS                |
-| 🌐 **Portfolio Website**       | Personal site to showcase projects 🌸                   | HTML, Tailwind CSS *(soon)*  |
-| 🔍 **Simple Recon Script**     | CLI tool for basic recon on websites 🐱                 | Python, Nmap, WHOIS          |
-
-👉 See more in my [Repositories](https://github.com/lofai12?tab=repositories)
+| Project                       | Description                                             | Tech & Stats                  |
+|-------------------------------|---------------------------------------------------------|--------------------------------|
+| 🛡️ **OSINTax Tool**           | Python-based OSINT tool for usernames & emails ✨       | Python, Rich, API requests ⭐42 |
+| 📝 **Digital Wedding Invite**  | Cute online invitation template for weddings 💌        | HTML, CSS, JS ⭐35             |
+| 🌐 **Portfolio Website**       | Personal site to showcase projects 🌸                  | HTML, Tailwind CSS *(soon)* ⭐28 |
+| 🔍 **Simple Recon Script**     | CLI tool for basic recon on websites 🐱                | Python, Nmap, WHOIS ⭐18       |
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- GitHub: [github.com/lofai12](https://github.com/lofai12)  
-- Email: **0xLofi@proton.me**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lofai12&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lofai12&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
 
 ---
 
-> *"Hacking is not about breaking, it's about understanding."* – Unknown 🌸
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/lofai12">
+    <img src="https://img.shields.io/badge/GitHub-🐱-pink?style=for-the-badge" />
+  </a>
+  <a href="mailto:defvan774@gmail.com">
+    <img src="https://img.shields.io/badge/Email-📧-lightblue?style=for-the-badge" />
+  </a>
+  <a href="https://twitter.com/">
+    <img src="https://img.shields.io/badge/Twitter-🐦-purple?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+> 🌸 *"Stay soft, stay kawaii — but keep it professional."*  
