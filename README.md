@@ -1,64 +1,38 @@
-# 👋 Hello, I'm Lofi
-
-I'm an aspiring **Full-Stack Developer** and **Cyber Security Enthusiast** who's passionate about building useful tools, exploring vulnerabilities ethically, and growing in the world of tech. Whether it's crafting web-based tools or hunting bugs, I'm always learning and experimenting.
-
----
-
-## 🚀 About Me
-
-- 🎓 Fresh graduate with strong curiosity in tech and security  
-- 👨‍💻 Learning **Python**, **JavaScript**, **React**, and **Ethical Hacking**  
-- 🔒 Interested in: **Cyber Security**, **Bug Bounty**, **Web App Pentesting**, **Digital Forensics**  
-- 🌱 Also exploring: **UI/UX Design**, **Web Development**, and **Digital Invitations**  
-- 🎯 Goal: Become a professional full-stack developer and ethical hacker  
+<h1 align="center">Hi, I’m Rafi 🌸🐰</h1>
+<p align="center">Cyber Security & Web Development Enthusiast</p>
 
 ---
 
-## 🛠️ Tech Stack
+## About Me
+- 💻 Focused on **Cyber Security, Web Development, & Automation**  
+- 🔎 Creator of **OSINTax**, **WPHammer**, and **NIN**  
+- 🌸 Soft aesthetic coder with a professional mindset  
 
-### 💻 Languages & Frameworks  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://img.icons8.com/ios-filled/50/laravel.png" width="40" title="Laravel"/>
-</p>
+---
 
-### 🔒 Cybersecurity Tools  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/kali-linux.png" width="40" title="Kali Linux"/>
-  <img src="https://img.icons8.com/ios-filled/50/bug.png" width="40" title="Burp Suite"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-terminal-coding-and-development-flat-flat-juicy-fish.png" width="40" title="Nmap / CLI Tools"/>
-</p>
+## Skills
+- **Languages:** Python, JavaScript, HTML, CSS  
+- **Frameworks & Tools:** Node.js, React, Kali Linux, VS Code, Git  
+- **Focus Areas:** Web Security, OSINT, Automation  
 
-### 🧰 Dev Tools  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" title="XAMPP"/>
+---
+
+## Projects
+- [**OSINTax**](https://github.com/USERNAME/OSINTax) — OSINT toolkit for ethical investigation  
+- [**WPHammer**](https://github.com/USERNAME/WPHammer) — WordPress pentest CLI tool  
+- [**NIN**](https://github.com/USERNAME/NIN) — File converter AI  
+
+---
+
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 📂 Featured Projects
+<p align="center">
+  🌸 “Stay soft, stay kawaii — but keep it professional.”  
+</p>
 
-| Project                      | Description                                              | Tech Stack & Tools          |
-|-----------------------------|----------------------------------------------------------|-----------------------------|
-| 🛡️ **OSINTax Tool**           | Python-based OSINT tool for usernames, emails            | Python, Rich, API requests  |
-| 📝 **Digital Wedding Invite** | Online invitation template for weddings                  | HTML, CSS, JS               |
-| 🌐 **Portfolio Website**      | Personal site to showcase projects                       | HTML, Tailwind CSS *(soon)* |
-| 🔍 **Simple Recon Script**    | CLI tool for basic recon on websites                     | Python, Nmap, WHOIS         |
-
-👉 See more in my [Repositories](https://github.com/lofai12?tab=repositories)
-
----
-
-## 📫 Let's Connect
-
-- GitHub: [github.com/lofai12](https://github.com/lofai12)
-- Email: **defvan774@gmail.com**
-
----
-
-> *"Hacking is not about breaking, it's about understanding."* – Unknown
