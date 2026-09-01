@@ -1,7 +1,7 @@
 <h1 align="center">🌸 𝙇𝙊𝙁𝙄.exe 🐰</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Cybersecurity Enthusiast</strong>
+  <strong>Begginer Developer · Cybersecurity Enthusiast</strong>
 </p>
 
 <p align="center">
@@ -53,11 +53,11 @@ Currently:
 │              SYSTEM STATUS                   │
 ├──────────────────────────────────────────────┤
 │                                              │
-│  🟢 Development        ACTIVE                │
-│  🟢 Cybersecurity      LEARNING              │
-│  🟢 OSINT              ACTIVE                │
-│  🟡 UI/UX              EXPLORING             │
-│  🟡 Japanese           LOADING...            │
+│  🟢 Development        ACTIVE               │
+│  🟢 Cybersecurity      LEARNING             │
+│  🟢 OSINT              ACTIVE               │
+│  🟡 UI/UX              EXPLORING            │
+│  🟡 Japanese           LOADING...           │
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
@@ -115,85 +115,45 @@ Modern Web Apps
 
 ## 🚀 Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🛡️ OSINTax
+OSINT & reconnaissance toolkit.
 
-> **OSINT toolkit for reconnaissance & intelligence gathering.**
+`Python` `APIs`
 
-```text
-USERNAME
-EMAIL
-DOMAIN
-DORK
-RECON
-```
+</td>
+<td width="50%">
 
-Built with:
+### 🔐 Mythos
+Security assessment platform.
 
-`Python` `Rich` `APIs`
+`FastAPI` `React` `Next.js`
 
----
+</td>
+</tr>
 
-### 🔐 Mythos Security Console
-
-> **Security assessment platform for reconnaissance, scanning and vulnerability analysis.**
-
-```text
-                    TARGET
-                      │
-                      ▼
-                ┌───────────┐
-                │   RECON   │
-                └─────┬─────┘
-                      │
-          ┌───────────┼───────────┐
-          ▼           ▼           ▼
-        DNS          SSL        HTTP
-          │           │           │
-          └───────────┼───────────┘
-                      ▼
-                SCANNER ENGINE
-                      │
-                      ▼
-                  CVE ENGINE
-                      │
-                      ▼
-                 ASSESSMENT
-```
-
-Built with:
-
-`Python` `FastAPI` `React` `Next.js` `Tailwind`
-
----
+<tr>
+<td width="50%">
 
 ### 🔎 Recon Engine
+Modular web reconnaissance.
 
-> **Modular reconnaissance engine for web targets.**
+`Python` `Automation`
 
-```text
-DNS Resolver
-IP Resolver
-WHOIS Scanner
-SSL Scanner
-Header Scanner
-Technology Scanner
-```
+</td>
+<td width="50%">
 
-Built with:
-
-`Python`
-
----
-
-### 💌 Digital Wedding Invitation
-
-> Cute, responsive and interactive digital invitation website.
-
-Built with:
+### 💌 Digital Invitation
+Interactive digital experience.
 
 `HTML` `CSS` `JavaScript`
 
----
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub
 
@@ -215,53 +175,11 @@ Built with:
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lofai12&theme=tokyo-night&hide_border=true"
+    src="https://samdev-pulse.vercel.app/api/profile?username=lofai12&theme=midnightneon"
     alt="Lofi GitHub Activity"
     width="100%"
   />
 </p>
-
----
-
-## 🐰 Developer DNA
-
-```text
-        ┌───────────────────────┐
-        │       LOFI DNA        │
-        ├───────────────────────┤
-        │                       │
-        │  🐍 Python            │
-        │  ⚛️ React             │
-        │  🔐 Security          │
-        │  🕵️ OSINT             │
-        │  🎨 UI/UX             │
-        │  🧪 Experiment        │
-        │  🐰 Kawaii            │
-        │                       │
-        └───────────────────────┘
-```
-
----
-
-## 🎧 Currently Building
-
-```text
-[██████████████████░░] 90%
-
-Mythos Security Console
-
-[███████████████░░░░░] 75%
-
-OSINTax
-
-[██████████░░░░░░░░░░] 50%
-
-Full-Stack Development
-
-[███████░░░░░░░░░░░░░] 35%
-
-Cybersecurity Research
-```
 
 ---
 
@@ -286,17 +204,11 @@ Cybersecurity Research
 ---
 
 <p align="center">
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│    stay soft. think sharp. ship things.   │
-│                                            │
-│                    - lofi 🐰               │
-│                                            │
-╰────────────────────────────────────────────╯
-```
-
+  <br>
+  <samp>stay soft. think sharp. ship things.</samp>
+  <br><br>
+  <sub>— lofi 🐰</sub>
+  <br><br>
 </p>
 
 <p align="center">
