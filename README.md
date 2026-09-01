@@ -78,11 +78,19 @@ Currently focusing on:
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lofai12&show_icons=true&hide_border=true&theme=tokyonight" height="170" alt="Lofi's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lofai12&layout=compact&hide_border=true&theme=tokyonight" height="170" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=lofai12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
+    height="170"
+    alt="Lofi's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lofai12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+    height="170"
+    alt="Lofi's Top Languages"
+  />
 </p>
 
 <p align="center">
