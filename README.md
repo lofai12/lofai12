@@ -3,7 +3,6 @@
   
   <h1>🌸👋 Hello, I'm Lofi 🐰</h1>
 
-  <!-- Animasi Teks -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F472B6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+👨‍💻;Cyber+Security+Enthusiast+🔒;Bug+Bounty+Hunter+🎯" alt="Typing SVG" />
   </a>
@@ -12,7 +11,6 @@
     I'm an aspiring <b>Full-Stack Developer</b> and <b>Cyber Security Enthusiast</b> who's passionate about building useful tools, exploring vulnerabilities ethically, and growing in the world of tech. Whether it's crafting web-based tools or hunting bugs, I'm always learning and experimenting. ✨
   </p>
 
-  <!-- Badges Social Media -->
   <p align="center">
     <a href="https://github.com/lofai12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     <a href="mailto:0xLofi@proton.me"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -45,7 +43,6 @@
 > Memadukan *Development* dan *Security* 💻🔐
 
 <div align="center">
-  <!-- Skill Icons Modern Grid -->
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,react,html,css,tailwind,linux,kali,figma,git&theme=dark&perline=10" alt="My Skills" />
   </a>
@@ -55,8 +52,6 @@
 
 ## 📂 Featured Projects
 
-<!-- Menggunakan GitHub Readme Stats untuk menampilkan Repositori sebagai Kartu (Card) -->
-<!-- PENTING: Ganti tulisan 'NAMA-REPO-LU' dengan nama repositori asli lu di GitHub -->
 <div align="center">
   <a href="https://github.com/lofai12/NAMA-REPO-LU">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lofai12&repo=NAMA-REPO-LU&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" width="400" />
@@ -66,13 +61,10 @@
   </a>
 </div>
 
-*(Ubah `NAMA-REPO-LU` di kode markdown dengan nama repository GitHub asli kamu biar kartunya muncul otomatis!)*
-
 ---
 
 ## 📊 GitHub Analytics & Graphs
 
-<!-- Grafik Garis (Line Graph) Aktivitas GitHub Lu -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=lofai12&bg_color=0D1117&color=F472B6&line=F472B6&point=FFFFFF&area=true&hide_border=true&theme=tokyonight" alt="Activity Graph" width="100%"/>
 </div>
