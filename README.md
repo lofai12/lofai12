@@ -1,274 +1,284 @@
-<h1 align="center">🌸 LOFI // CYBER-CAMO 🐰</h1>
+<h1 align="center">🌸 𝙇𝙊𝙁𝙄.exe 🐰</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:c8a2ff,100:8ec5fc&height=220&section=header&text=LOFI&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58&descSize=18" width="100%" alt="Lofi Header"/>
+  <strong>Full-Stack Developer · Cybersecurity Enthusiast</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BUILDING-ffb6d9?style=for-the-badge" alt="Status"/>
-  <img src="https://img.shields.io/badge/FOCUS-CYBERSECURITY-c8a2ff?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/MODE-LEARNING-8ec5fc?style=for-the-badge" alt="Learning"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=LOFI&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20%7C%20breaking%20%7C%20learning&descAlignY=60&descSize=16" width="100%" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-🐍-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/React-⚛️-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Cybersecurity-🔐-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/OSINT-🕵️-111111?style=flat-square" />
+
 </p>
 
 ---
 
-## 🐰 About Me
+## `whoami`
+
+```text
+┌──(lofi㉿github)-[~]
+└─$ whoami
+
+Lofi
+
+┌──(lofi㉿github)-[~]
+└─$ cat about.txt
+
+Full-Stack Developer in progress.
+Cybersecurity enthusiast.
+Python enjoyer.
+OSINT & recon nerd.
+UI/UX enjoyer.
+Professional bug creator & fixer.
+
+Currently:
+→ building security tools
+→ learning modern web development
+→ exploring application security
+→ turning questionable ideas into working projects
+```
+
+---
+
+## 🧠 `current_status`
 
 ```text
 ╭──────────────────────────────────────────────╮
-│                 LOFI PROFILE                 │
+│              SYSTEM STATUS                   │
 ├──────────────────────────────────────────────┤
-│ 🎓 Fresh Graduate                            │
-│ 💻 Full-Stack Developer in Progress          │
-│ 🔐 Cybersecurity Enthusiast                   │
-│ 🐍 Python Developer                           │
-│ ⚛️  React / Next.js Explorer                  │
-│ 🕵️ OSINT & Recon Enthusiast                   │
-│ 🌸 Kawaii UI enjoyer                          │
+│                                              │
+│  🟢 Development        ACTIVE                │
+│  🟢 Cybersecurity      LEARNING              │
+│  🟢 OSINT              ACTIVE                │
+│  🟡 UI/UX              EXPLORING             │
+│  🟡 Japanese           LOADING...            │
+│                                              │
 ╰──────────────────────────────────────────────╯
 ```
 
-I'm an aspiring **Full-Stack Developer** and **Cybersecurity Enthusiast** who enjoys building useful tools, exploring how systems work, and learning through hands-on projects.
+---
 
-My interests sit somewhere between:
+## ⚡ Tech Stack
 
-**Building applications → understanding systems → testing security → fixing what breaks.**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nextjs,tailwind,vite,fastapi,flask,nodejs,linux,kali,docker,git,github&perline=8" />
+</p>
 
 ---
 
-## 🌸 Current Focus
+## 🛡️ What I'm Into
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cybersecurity
 
 ```text
-                    ┌───────────────┐
-                    │     LOFI      │
-                    └───────┬───────┘
-                            │
-             ┌──────────────┼──────────────┐
-             │              │              │
-             ▼              ▼              ▼
-       DEVELOPMENT     CYBERSECURITY      DESIGN
-             │              │              │
-        ┌────┴────┐     ┌────┴────┐     ┌──┴───┐
-        │         │     │         │     │      │
-      Frontend  Backend  Recon    OSINT  UI/UX  Web
-        │         │     │         │
-      React     Python   Nmap    WebSec
-      Next.js   FastAPI  DNS     Pentest
-      Tailwind  Flask    SSL     Research
+Web Pentesting
+Reconnaissance
+OSINT
+Security Headers
+Vulnerability Research
+CVE Correlation
+Security Automation
 ```
 
-### 🎯 Learning
+</td>
 
-* 🐍 Python
-* ⚡ JavaScript
-* ⚛️ React
-* ▲ Next.js
-* 🎨 Tailwind CSS
-* 🚀 FastAPI
-* 🐳 Docker
-* 🔐 Web Application Security
-* 🕵️ OSINT & Reconnaissance
+<td width="50%">
 
----
+### 💻 Development
 
-## 🛠️ Tech Stack
+```text
+Python
+JavaScript
+React
+Next.js
+FastAPI
+REST APIs
+Responsive UI
+Modern Web Apps
+```
 
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,bash" alt="Languages"/>
-</p>
-
-### ⚛️ Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend"/>
-</p>
-
-### 🚀 Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs" alt="Backend"/>
-</p>
-
-### 🔐 Security & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,github" alt="Security and Infrastructure"/>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛡️ Featured Projects
+## 🚀 Projects
 
-### 🕵️ OSINTax
+### 🛡️ OSINTax
 
-**OSINT reconnaissance toolkit built with Python.**
+> **OSINT toolkit for reconnaissance & intelligence gathering.**
 
-Features include:
+```text
+USERNAME
+EMAIL
+DOMAIN
+DORK
+RECON
+```
 
-* Username investigation
-* Email intelligence
-* Domain profiling
-* Google dork assistance
-* API integrations
-* Rich CLI interface
+Built with:
 
-**Stack:** `Python` `Rich` `APIs`
+`Python` `Rich` `APIs`
 
 ---
 
 ### 🔐 Mythos Security Console
 
-Security assessment platform focused on automated reconnaissance and vulnerability analysis.
+> **Security assessment platform for reconnaissance, scanning and vulnerability analysis.**
 
 ```text
-Target
-  │
-  ▼
-Recon Engine
-  │
-  ├── DNS Resolver
-  ├── IP Resolver
-  ├── Header Scanner
-  ├── SSL Scanner
-  ├── Technology Scanner
-  └── WHOIS Scanner
-          │
-          ▼
-     Scanner Engine
-          │
-          ▼
-      CVE Engine
-          │
-          ▼
-   Security Assessment
+                    TARGET
+                      │
+                      ▼
+                ┌───────────┐
+                │   RECON   │
+                └─────┬─────┘
+                      │
+          ┌───────────┼───────────┐
+          ▼           ▼           ▼
+        DNS          SSL        HTTP
+          │           │           │
+          └───────────┼───────────┘
+                      ▼
+                SCANNER ENGINE
+                      │
+                      ▼
+                  CVE ENGINE
+                      │
+                      ▼
+                 ASSESSMENT
 ```
 
-**Stack:** `Python` `FastAPI` `React` `Next.js` `Tailwind`
+Built with:
+
+`Python` `FastAPI` `React` `Next.js` `Tailwind`
 
 ---
 
 ### 🔎 Recon Engine
 
-Modular reconnaissance engine designed to collect useful information about web targets.
-
-**Modules:**
+> **Modular reconnaissance engine for web targets.**
 
 ```text
-DNS
-IP
-WHOIS
-SSL/TLS
-HTTP Headers
-Technology Detection
+DNS Resolver
+IP Resolver
+WHOIS Scanner
+SSL Scanner
+Header Scanner
+Technology Scanner
 ```
 
-**Stack:** `Python`
+Built with:
+
+`Python`
 
 ---
 
 ### 💌 Digital Wedding Invitation
 
-Responsive digital invitation website with interactive components and custom visual design.
+> Cute, responsive and interactive digital invitation website.
 
-**Stack:** `HTML` `CSS` `JavaScript`
+Built with:
+
+`HTML` `CSS` `JavaScript`
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lofai12&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lofai12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" height="170" alt="Top Languages"/>
+  <img
+    src="https://gh-readme-profile.vercel.app/api?username=lofai12&theme=dark"
+    alt="Lofi GitHub Stats"
+    width="520"
+  />
 </p>
 
-> If the stats images don't load, the public stats service may be rate-limited or temporarily unavailable. The README itself isn't broken.
+<p align="center">
+  <sub>📡 live profile data · generated automatically</sub>
+</p>
 
 ---
 
-## 🧠 Security Interests
+## 📈 Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=lofai12&theme=tokyo-night&hide_border=true"
+    alt="Lofi GitHub Activity"
+    width="100%"
+  />
+</p>
+
+---
+
+## 🐰 Developer DNA
 
 ```text
-┌─────────────────────────────────────┐
-│         CYBERSECURITY MAP           │
-├─────────────────────────────────────┤
-│                                     │
-│  🔎 Reconnaissance                  │
-│  ├── DNS Enumeration                │
-│  ├── Subdomain Discovery            │
-│  └── Technology Detection           │
-│                                     │
-│  🌐 Web Security                    │
-│  ├── HTTP Security Headers          │
-│  ├── Web Application Testing        │
-│  └── Vulnerability Assessment       │
-│                                     │
-│  🕵️ OSINT                           │
-│  ├── Username Intelligence          │
-│  ├── Email Intelligence             │
-│  └── Domain Intelligence             │
-│                                     │
-│  🧪 Research                        │
-│  ├── CVE Correlation                │
-│  ├── Security Automation            │
-│  └── Recon Tooling                  │
-│                                     │
-└─────────────────────────────────────┘
+        ┌───────────────────────┐
+        │       LOFI DNA        │
+        ├───────────────────────┤
+        │                       │
+        │  🐍 Python            │
+        │  ⚛️ React             │
+        │  🔐 Security          │
+        │  🕵️ OSINT             │
+        │  🎨 UI/UX             │
+        │  🧪 Experiment        │
+        │  🐰 Kawaii            │
+        │                       │
+        └───────────────────────┘
 ```
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lofai12/lofai12/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-## 📈 GitHub Metrics
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lofai12&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 🌸 Developer Philosophy
+## 🎧 Currently Building
 
 ```text
-       ┌────────────────────────────┐
-       │        BUILD               │
-       │          ↓                 │
-       │       BREAK                │
-       │          ↓                 │
-       │      UNDERSTAND            │
-       │          ↓                 │
-       │        FIX                 │
-       │          ↓                 │
-       │       REPEAT               │
-       └────────────────────────────┘
-```
+[██████████████████░░] 90%
 
-> **Stay soft. Think sharp. Build things. 🐰🌸**
+Mythos Security Console
+
+[███████████████░░░░░] 75%
+
+OSINTax
+
+[██████████░░░░░░░░░░] 50%
+
+Full-Stack Development
+
+[███████░░░░░░░░░░░░░] 35%
+
+Cybersecurity Research
+```
 
 ---
 
-## 📫 Connect
+## 🌐 Find Me
 
 <p align="center">
 
 <a href="https://github.com/lofai12">
-  <img src="https://img.shields.io/badge/GitHub-lofai12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-@lofai12-111111?style=for-the-badge&logo=github" />
 </a>
 
 <a href="mailto:0xLofi@proton.me">
-  <img src="https://img.shields.io/badge/Email-0xLofi%40proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=protonmail" />
 </a>
 
 <a href="https://www.instagram.com/fckrf23/">
-  <img src="https://img.shields.io/badge/Instagram-fckrf23-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://img.shields.io/badge/Instagram-@fckrf23-111111?style=for-the-badge&logo=instagram" />
 </a>
 
 </p>
@@ -276,9 +286,19 @@ Responsive digital invitation website with interactive components and custom vis
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ec5fc,50:c8a2ff,100:ffb6d9&height=120&section=footer" width="100%" alt="Footer"/>
+
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│    stay soft. think sharp. ship things.   │
+│                                            │
+│                    - lofi 🐰               │
+│                                            │
+╰────────────────────────────────────────────╯
+```
+
 </p>
 
 <p align="center">
-  <sub>🌸 Built with curiosity, caffeine, and questionable amounts of debugging.</sub>
+  <sub>🌸 Made with curiosity, caffeine & too much debugging.</sub>
 </p>
